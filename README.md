@@ -5,7 +5,7 @@ Open API & data source for gear data and attributes in [**The Division 2**](http
 >
 > giving players as many options as we can to allow them to play the way they want to play, because in the end, we want as many people as possible to enjoy our game, no matter who they are.”
 
-– *Patrick Görtjes, Localization Project Manager at Massive Entertainment*
+– *Patrick Görtjes, Localization Project Manager at Massive Entertainment* ([link to blog post](https://www.massive.se/blog/inside-massive/how-localization-helps-make-games-more-accessible/))
 
 ---
 
