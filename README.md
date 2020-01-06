@@ -23,6 +23,7 @@ Open API & data source for gear data and attributes in [**The Division 2**](http
 
 # Contributing
 If you find any mistakes in data, spelling or have any ideas to improve upon, feel free to open an issue/pull request.
+
 **Everyone is invited to contribute.** There's no specific way/format of how to contribute yet.
 
 # Translations
