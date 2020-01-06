@@ -1,5 +1,5 @@
 # The Division Gear Data & Attributes
-Open API & data source for gear data and attributes in **The Division 2**.
+Open API & data source for gear data and attributes in [**The Division 2**](https://tomclancy-thedivision.ubisoft.com/game/).
 
 > “It’s about accessibility, but at the same time I think accessibility is also just advanced user customization:
 >
