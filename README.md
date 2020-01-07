@@ -37,4 +37,4 @@ It doesn't need to be 100% complete or perfect. **Every bit of translation count
 ---
 
 ### Disclaimer
-This repository is not affiliated, associated, authorized, endorsed by, or in any way officially connected with The Division 2, Massive Entertainment, Ubisoft or any other parties involved.
+This project is not affiliated, associated, authorized, endorsed by, or in any way officially connected with The Division 2, Massive Entertainment, Ubisoft or any other parties involved.
