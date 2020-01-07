@@ -22,7 +22,7 @@ Offene Schnittstelle & Datenquelle für Ausrüstungsdaten und Attribute aus [**T
 - Vermutlich kein Support durch [Massive Entertainment](https://www.massive.se) 😥 ([mach dich bemerkbar!](https://twitter.com/intent/tweet?hashtags=TheDivision2,Community&text=Bitte%20erw%C3%A4gt%20detaillierte%20Spieldaten%20mit%20uns%20zu%20teilen%20%F0%9F%A7%A1&url=https://github.com/creeation/the-division-gear/&via=TheDivisionGame))
 
 # Beitragen
-Solltest du irgendwelche Fehler in den Daten bzw. Schreibfehler finden, oder Ideen haben auf welche man aufbauen kann, zögere nicht ein Issue/Pull Request zu erstellen.
+Solltest du irgendwelche Fehler in den Datensätzen bzw. Schreibfehler finden, oder Ideen haben auf welche man aufbauen kann, zögere nicht ein Issue/Pull Request zu erstellen.
 
 **Jeder ist dazu eingeladen beizutragen.** Es gibt aktuell noch kein spezifisches Format, an welches man sich halten müsste.
 
