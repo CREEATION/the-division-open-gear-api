@@ -1,0 +1,304 @@
+{
+  "list": [
+    {
+      "id": "hard_hitting",
+      "label": "Hard Hitting",
+      "types": ["offensive"],
+      "items": ["masks", "vests", "backpacks", "gloves", "holsters", "kneepads"]
+    },
+    {
+      "id": "insulated",
+      "label": "Insulated",
+      "types": ["defensive"],
+      "items": ["masks", "vests", "backpacks", "gloves", "holsters", "kneepads"]
+    },
+    {
+      "id": "restorative",
+      "label": "Restorative",
+      "types": ["defensive"],
+      "items": ["masks", "vests", "backpacks", "gloves", "holsters", "kneepads"]
+    },
+    {
+      "id": "self_adjusting",
+      "label": "Self Adjusting",
+      "types": ["defensive"],
+      "items": ["masks", "vests", "backpacks", "gloves", "holsters", "kneepads"]
+    },
+    {
+      "id": "empowered",
+      "label": "Empowered",
+      "types": ["utility"],
+      "items": ["masks", "kneepads"]
+    },
+    {
+      "id": "surge",
+      "label": "Surge",
+      "types": ["utility"],
+      "items": ["masks", "kneepads"]
+    },
+    {
+      "id": "destructive",
+      "label": "Destructive",
+      "types": ["utility"],
+      "items": ["masks", "vests", "backpacks", "gloves", "holsters", "kneepads"]
+    },
+    {
+      "id": "capacitive",
+      "label": "Capacitive",
+      "types": ["utility"],
+      "items": ["masks", "vests", "backpacks", "gloves", "holsters", "kneepads"]
+    },
+    {
+      "id": "vital",
+      "label": "Vital",
+      "types": ["defensive"],
+      "items": ["vests", "backpacks"]
+    },
+    {
+      "id": "hardened",
+      "label": "Hardened",
+      "types": ["defensive"],
+      "items": ["vests", "backpacks"]
+    },
+    {
+      "id": "critical",
+      "label": "Critical",
+      "types": ["offensive"],
+      "items": ["gloves", "holsters"]
+    },
+    {
+      "id": "surgical",
+      "label": "Surgical",
+      "types": ["offensive"],
+      "items": ["gloves", "holsters"]
+    },
+    {
+      "id": "precise",
+      "label": "Precise",
+      "types": ["offensive"],
+      "items": ["gloves", "holsters"]
+    },
+    {
+      "id": "devastating",
+      "label": "Devastating",
+      "types": ["offensive"],
+      "items": ["gloves", "holsters"]
+    },
+    {
+      "id": "spotter",
+      "label": "Spotter",
+      "types": ["offensive"],
+      "items": ["masks"]
+    },
+    {
+      "id": "concussion",
+      "label": "Concussion",
+      "types": ["offensive"],
+      "items": ["masks"]
+    },
+    {
+      "id": "Centered",
+      "label": "Centered",
+      "types": ["defensive"],
+      "items": ["masks"]
+    },
+    {
+      "id": "creeping_death",
+      "label": "Creeping Death",
+      "types": ["utility"],
+      "items": ["masks"]
+    },
+    {
+      "id": "trauma",
+      "label": "Trauma",
+      "types": ["utility"],
+      "items": ["masks"]
+    },
+    {
+      "id": "dialed_in",
+      "label": "Dialed In",
+      "types": ["utility"],
+      "items": ["masks"]
+    },
+    {
+      "id": "berserk",
+      "label": "Berserk",
+      "types": ["offensive"],
+      "items": ["vests"]
+    },
+    {
+      "id": "vigilance",
+      "label": "Vigilance",
+      "types": ["offensive"],
+      "items": ["vests"]
+    },
+    {
+      "id": "unstoppable_force",
+      "label": "Unstoppable Force",
+      "types": ["offensive"],
+      "items": ["vests"]
+    },
+    {
+      "id": "bloodsucker",
+      "label": "Bloodsucker",
+      "types": ["defensive"],
+      "items": ["vests"]
+    },
+    {
+      "id": "payload",
+      "label": "Payload",
+      "types": ["defensive"],
+      "items": ["vests"]
+    },
+    {
+      "id": "unbreakable",
+      "label": "Unbreakable",
+      "types": ["defensive"],
+      "items": ["vests"]
+    },
+    {
+      "id": "grenadier",
+      "label": "Grenadier",
+      "types": ["defensive"],
+      "items": ["vests"]
+    },
+    {
+      "id": "mad_bomber",
+      "label": "Mad Bomber",
+      "types": ["utility"],
+      "items": ["vests"]
+    },
+    {
+      "id": "on_the_ropes",
+      "label": "On The Ropes",
+      "types": ["offensive"],
+      "items": ["vests"]
+    },
+    {
+      "id": "spark",
+      "label": "Spark",
+      "types": ["offensive"],
+      "items": ["vests"]
+    },
+    {
+      "id": "efficient",
+      "label": "Efficient",
+      "types": ["defensive"],
+      "items": ["vests"]
+    },
+    {
+      "id": "tech_support",
+      "label": "Tech Support",
+      "types": ["utility"],
+      "items": ["vests"]
+    },
+    {
+      "id": "skilled",
+      "label": "Skilled",
+      "types": ["utility"],
+      "items": ["vests"]
+    },
+    {
+      "id": "safeguard",
+      "label": "Safeguard",
+      "types": ["utility"],
+      "items": ["vests"]
+    },
+    {
+      "id": "wicked",
+      "label": "Wicked",
+      "types": ["offensive"],
+      "items": ["gloves"]
+    },
+    {
+      "id": "obliterate",
+      "label": "Obliterate",
+      "types": ["offensive"],
+      "items": ["gloves"]
+    },
+    {
+      "id": "opportunistic",
+      "label": "Opportunistic",
+      "types": ["offensive"],
+      "items": ["gloves"]
+    },
+    {
+      "id": "compensated",
+      "label": "Compensated",
+      "types": ["offensive"],
+      "items": ["gloves"]
+    },
+    {
+      "id": "clutch",
+      "label": "Clutch",
+      "types": ["defensive"],
+      "items": ["gloves"]
+    },
+    {
+      "id": "reassigned",
+      "label": "Reassigned",
+      "types": ["offensive"],
+      "items": ["holsters"]
+    },
+    {
+      "id": "gunslinger",
+      "label": "Gunslinger",
+      "types": ["offensive"],
+      "items": ["holsters"]
+    },
+    {
+      "id": "bloodlust",
+      "label": "Bloodlust",
+      "types": ["offensive"],
+      "items": ["holsters"]
+    },
+    {
+      "id": "blacksmith",
+      "label": "Blacksmith",
+      "types": ["defensive"],
+      "items": ["holsters"]
+    },
+    {
+      "id": "filler_up",
+      "label": "Fill'er Up",
+      "types": ["utility"],
+      "items": ["holsters"]
+    },
+    {
+      "id": "composure",
+      "label": "Composure",
+      "types": ["offensive"],
+      "items": ["kneepads"]
+    },
+    {
+      "id": "entrench",
+      "label": "Entrench",
+      "types": ["defensive"],
+      "items": ["kneepads"]
+    },
+    {
+      "id": "calculated",
+      "label": "Calculated",
+      "types": ["utility"],
+      "items": ["kneepads"]
+    },
+    {
+      "id": "braced",
+      "label": "Braced",
+      "types": ["utility"],
+      "items": ["kneepads"]
+    },
+    {
+      "id": "cloaked",
+      "label": "Cloaked",
+      "types": ["utility"],
+      "items": ["kneepads"]
+    },
+    {
+      "id": "patience",
+      "label": "Patience",
+      "types": ["defensive"],
+      "items": ["kneepads"]
+    }
+  ]
+}
