@@ -34,5 +34,7 @@ Let's make this accessible, everywhere:
 if you don't know what all of this is and you're missing your language, open a pull request!
 It doesn't need to be 100% complete or perfect. **Every bit of translation counts.**
 
-# Disclaimer
-Not 
+---
+
+### Disclaimer
+This repository is not affiliated, associated, authorized, endorsed by, or in any way officially connected with The Division 2, Massive Entertainment, Ubisoft or any other parties involved.
