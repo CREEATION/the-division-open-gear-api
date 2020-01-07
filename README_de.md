@@ -1,5 +1,5 @@
 # The Division Ausrüstungsdaten & Attribute
-Offene Schnittstelle & Datenquelle von Ausrüstungsdaten und Attributen aus [**The Division 2**](https://tomclancy-thedivision.ubisoft.com/game/).
+Offene Schnittstelle & Datenquelle für Ausrüstungsdaten und Attribute aus [**The Division 2**](https://tomclancy-thedivision.ubisoft.com/game/).
 
 > “Es geht um Barrierefreiheit, aber gleichzeitig denke ich, dass Barrierefreiheit auch nur eine fortgeschrittene Personalisierung der Benutzer ist:
 >
