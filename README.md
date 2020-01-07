@@ -17,9 +17,12 @@ Open API & data source for gear data and attributes in [**The Division 2**](http
 - (Semi-)Automate?
 
 # Limitations
-- The only known, biggest data source right now is the [The Division 2 Gear Attribute Sheet on Google Docs](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMyKlW90Q2H3RDKXF7cISzVgs7aM9tjqFtf2ZH6i1e_U_8K_LUD2-2ccTrXrgsLBUW15U-9z7u5tgz/pubhtml#)
 - No knowledge of how to datamine the game and possible consequences when doing so
 - Possibly no support from [Massive Entertainment](https://www.massive.se) 😥 ([raise your voice!](https://twitter.com/intent/tweet?hashtags=TheDivision2,Community&text=Please%20consider%20sharing%20more%20in-depth%20game%20data%20with%20us%20%F0%9F%A7%A1&url=https://github.com/creeation/the-division-gear/&via=TheDivisionGame))
+
+# Data Sources
+- [The Division 2 Gear Attribute Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMyKlW90Q2H3RDKXF7cISzVgs7aM9tjqFtf2ZH6i1e_U_8K_LUD2-2ccTrXrgsLBUW15U-9z7u5tgz/pubhtml#)
+- [Division 2 Collections Sheet](https://docs.google.com/spreadsheets/d/1ooSEd71WYebM2OuRApUAjrqjnWU08IIyuq79-o0fVa4)
 
 # Contributing
 If you find any mistakes in data, spelling or have any ideas to improve upon, feel free to open an issue/pull request.
@@ -30,3 +33,6 @@ If you find any mistakes in data, spelling or have any ideas to improve upon, fe
 Let's make this accessible, everywhere:
 if you don't know what all of this is and you're missing your language, open a pull request!
 It doesn't need to be 100% complete or perfect. **Every bit of translation counts.**
+
+# Disclaimer
+Not 
