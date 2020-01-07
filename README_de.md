@@ -33,3 +33,8 @@ Solltest du irgendwelche Fehler in den Datensätzen bzw. Schreibfehler finden, o
 Lasst es uns für jeden verfügbar machen, überall:
 solltest du nicht wissen was das hier alles soll oder eine Sprache vermissen, erstelle ein Pull Request!
 Es muss nicht zu 100% komplett oder perfekt sein. **Jeder noch so kleine Beitrag zählt.**
+
+---
+
+### Haftungsausschluss
+Dieses Projekt ist nicht mit The Division 2, Massive Entertainment, Ubisoft oder anderen beteiligten Parteien verbunden, assoziiert, autorisiert, gebilligt oder in irgendeiner Weise offiziell mit ihnen verbunden.
