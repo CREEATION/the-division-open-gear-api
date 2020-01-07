@@ -18,7 +18,7 @@ Offene Schnittstelle & Datenquelle für Ausrüstungsdaten und Attribute aus [**T
 
 # Einschränkungen
 - Keine Kenntnisse darüber, wie diese Daten aus dem Spiel gelesen werden können und mögliche Konsequenzen
-- Vermutlich kein Support durch [Massive Entertainment](https://www.massive.se) 😥 ([mach dich bemerkbar!](https://twitter.com/intent/tweet?hashtags=TheDivision2,Community&text=Bitte%20erw%C3%A4gt%20detaillierte%20Spieldaten%20mit%20uns%20zu%20teilen%20%F0%9F%A7%A1&url=https://github.com/creeation/the-division-gear/&via=TheDivisionGame))
+- Vermutlich kein Support durch [Massive Entertainment](https://www.massive.se) 😥 ([mach dich bemerkbar!](https://twitter.com/intent/tweet?hashtags=TheDivision2,Community&text=Bitte%20erw%C3%A4gt%20detaillierte%20Spieldaten%20mit%20uns%20zu%20teilen%20%F0%9F%A7%A1&url=https://github.com/CREEATION/the-division-open-gear-api/&via=TheDivisionGame))
 
 # Datenquellen
 - [The Division 2 Gear Attribute Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTMyKlW90Q2H3RDKXF7cISzVgs7aM9tjqFtf2ZH6i1e_U_8K_LUD2-2ccTrXrgsLBUW15U-9z7u5tgz/pubhtml#)
