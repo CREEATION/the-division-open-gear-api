@@ -1,0 +1,94 @@
+{
+  "list": [
+    {
+      "id": "511_tactical",
+      "label": "5.11 Tactical",
+      "slots": ["masks", "vests", "backpacks", "gloves", "holsters", "kneepads"]
+    },
+    {
+      "id": "golan_gear_ltd",
+      "label": "Golan Gear LTD",
+      "slots": ["masks", "vests", "backpacks", "gloves", "holsters", "kneepads"]
+    },
+    {
+      "id": "badger_tuff",
+      "label": "Badger Tuff",
+      "slots": ["masks", "vests", "backpacks", "gloves", "holsters", "kneepads"]
+    },
+    {
+      "id": "douglas_harding",
+      "label": "Douglas & Harding",
+      "slots": ["masks", "vests", "backpacks", "gloves", "holsters", "kneepads"]
+    },
+    {
+      "id": "fenris_group_ab",
+      "label": "Fenris Group AB",
+      "slots": ["masks", "vests", "backpacks", "gloves", "holsters", "kneepads"]
+    },
+    {
+      "id": "alps_summit_armament",
+      "label": "Alps Summit Armament",
+      "slots": ["masks", "vests", "backpacks", "gloves", "holsters", "kneepads"]
+    },
+    {
+      "id": "wyvern_wear",
+      "label": "Wyvern Wear",
+      "slots": ["masks", "vests", "backpacks", "gloves", "holsters", "kneepads"]
+    },
+    {
+      "id": "sokolov_concern",
+      "label": "Sokolov Concern",
+      "slots": ["masks", "vests", "backpacks", "gloves", "holsters", "kneepads"]
+    },
+    {
+      "id": "gila_guard",
+      "label": "Gila Guard",
+      "slots": ["masks", "vests", "backpacks", "gloves", "holsters", "kneepads"]
+    },
+    {
+      "id": "richter_kaiser_gmbh",
+      "label": "Richter & Kaiser GmbH",
+      "slots": ["masks", "vests", "backpacks", "gloves", "holsters", "kneepads"]
+    },
+    {
+      "id": "petrov_defense_group",
+      "label": "Petrov Defense Group",
+      "slots": ["masks", "vests", "backpacks", "gloves", "holsters", "kneepads"]
+    },
+    {
+      "id": "yaahl_gear",
+      "label": "Yaahl Gear",
+      "slots": ["masks", "vests", "backpacks", "gloves", "holsters", "kneepads"]
+    },
+    {
+      "id": "china_light_industries_corporation",
+      "label": "China Light Industries Corporation",
+      "slots": ["masks", "vests", "backpacks", "gloves", "holsters", "kneepads"]
+    },
+    {
+      "id": "overlord_armaments",
+      "label": "Overlord Armaments",
+      "slots": ["masks", "vests", "backpacks", "gloves", "holsters", "kneepads"]
+    },
+    {
+      "id": "providence_defense",
+      "label": "Providence Defense",
+      "slots": ["masks", "vests", "backpacks", "gloves", "holsters", "kneepads"]
+    },
+    {
+      "id": "airaldi_holdings",
+      "label": "Airaldi Holdings",
+      "slots": ["masks", "vests", "backpacks", "gloves", "holsters", "kneepads"]
+    },
+    {
+      "id": "murakami_industries",
+      "label": "Murakami Industries",
+      "slots": ["masks", "vests", "backpacks", "gloves", "holsters", "kneepads"]
+    },
+    {
+      "id": "reaper_bravo",
+      "label": "Reaper Bravo",
+      "slots": ["masks", "vests", "backpacks", "gloves", "holsters", "kneepads"]
+    }
+  ]
+}
