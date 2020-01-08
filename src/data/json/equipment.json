@@ -3,671 +3,671 @@
     {
       "id": "protective_tactical_mask",
       "label": "Protective Tactical Mask",
-      "items": ["masks"],
+      "slots": ["masks"],
       "brands": ["511_tactical"]
     },
     {
       "id": "taclite_plate_carrier",
       "label": "TacLite Plate Carrier",
-      "items": ["vests"],
+      "slots": ["vests"],
       "brands": ["511_tactical"]
     },
     {
       "id": "rush24_backpack",
       "label": "RUSH24 Backpack",
-      "items": ["backpacks"],
+      "slots": ["backpacks"],
       "brands": ["511_tactical"]
     },
     {
       "id": "rush24_backpack_replica",
       "label": "RUSH24 Backpack Replica",
       "types": ["replica"],
-      "items": ["backpacks"],
+      "slots": ["backpacks"],
       "brands": ["511_tactical"]
     },
     {
       "id": "all_hazards_nitro_backpack",
       "label": "All Hazards Nitro Backpack",
-      "items": ["backpacks"],
+      "slots": ["backpacks"],
       "brands": ["511_tactical"]
     },
     {
       "id": "all_hazards_prime_backpack",
       "label": "All Hazards Prime Backpack",
-      "items": ["backpacks"],
+      "slots": ["backpacks"],
       "brands": ["511_tactical"]
     },
     {
       "id": "rush12_backpack",
       "label": "RUSH12 Backpack",
-      "items": ["backpacks"],
+      "slots": ["backpacks"],
       "brands": ["511_tactical"]
     },
     {
       "id": "rush72_backpack",
       "label": "RUSH72 Backpack",
-      "items": ["backpacks"],
+      "slots": ["backpacks"],
       "brands": ["511_tactical"]
     },
     {
       "id": "amp24",
       "label": "AMP24",
-      "items": ["backpacks"],
+      "slots": ["backpacks"],
       "brands": ["511_tactical"]
     },
     {
       "id": "station_grip_gloves",
       "label": "Station Grip Gloves",
-      "items": ["gloves"],
+      "slots": ["gloves"],
       "brands": ["511_tactical"]
     },
     {
       "id": "station_grip_gloves_replica",
       "label": "Station Grip Gloves Replica",
       "types": ["replica"],
-      "items": ["gloves"],
+      "slots": ["gloves"],
       "brands": ["511_tactical"]
     },
     {
       "id": "deathgrips",
       "label": "Deathgrips",
       "types": ["named"],
-      "items": ["gloves"],
+      "slots": ["gloves"],
       "brands": ["511_tactical"]
     },
     {
       "id": "compact_holster_pouch",
       "label": "Compact Holster Pouch",
-      "items": ["holsters"],
+      "slots": ["holsters"],
       "brands": ["511_tactical"]
     },
     {
       "id": "lbe_compact_holster_pouch_replica",
       "label": "LBE Compact Holster Pouch Replica",
       "types": ["replica"],
-      "items": ["holsters"],
+      "slots": ["holsters"],
       "brands": ["511_tactical"]
     },
     {
       "id": "exok1_kneepad",
       "label": "EXO.K1 Kneepad",
-      "items": ["kneepads"],
+      "slots": ["kneepads"],
       "brands": ["511_tactical"]
     },
     {
       "id": "emet_mask",
       "label": "Emet Mask",
-      "items": ["masks"],
+      "slots": ["masks"],
       "brands": ["golan_gear_ltd"]
     },
     {
       "id": "chatzatz_chest",
       "label": "Chatzatz Chest",
-      "items": ["vests"],
+      "slots": ["vests"],
       "brands": ["golan_gear_ltd"]
     },
     {
       "id": "chemar_backpack",
       "label": "Chemar Backpack",
-      "items": ["backpacks"],
+      "slots": ["backpacks"],
       "brands": ["golan_gear_ltd"]
     },
     {
       "id": "ayal_gloves",
       "label": "Ayal Gloves",
-      "items": ["gloves"],
+      "slots": ["gloves"],
       "brands": ["golan_gear_ltd"]
     },
     {
       "id": "shomer_holster",
       "label": "Shomer Holster",
-      "items": ["holsters"],
+      "slots": ["holsters"],
       "brands": ["golan_gear_ltd"]
     },
     {
       "id": "nahar_knees",
       "label": "Nahar Knees",
-      "items": ["kneepads"],
+      "slots": ["kneepads"],
       "brands": ["golan_gear_ltd"]
     },
     {
       "id": "javelina_mask",
       "label": "Javelina Mask",
-      "items": ["masks"],
+      "slots": ["masks"],
       "brands": ["gila_guard"]
     },
     {
       "id": "javelina_mask_replica",
       "label": "Javelina Mask Replica",
       "types": ["replica"],
-      "items": ["masks"],
+      "slots": ["masks"],
       "brands": ["gila_guard"]
     },
     {
       "id": "nightwatcher",
       "label": "Nightwatcher",
       "types": ["named"],
-      "items": ["masks"],
+      "slots": ["masks"],
       "brands": ["gila_guard"]
     },
     {
       "id": "armadillo_vest",
       "label": "Armadillo Vest",
-      "items": ["vests"],
+      "slots": ["vests"],
       "brands": ["gila_guard"]
     },
     {
       "id": "iguana_hauberk",
       "label": "Iguana Hauberk",
-      "items": ["vests"],
+      "slots": ["vests"],
       "brands": ["gila_guard"]
     },
     {
       "id": "iguana_hauberk_salvaged",
       "label": "Salvaged Iguana Hauberk",
       "types": ["salvaged"],
-      "items": ["vests"],
+      "slots": ["vests"],
       "brands": ["gila_guard"]
     },
     {
       "id": "gila_inventory_system",
       "label": "Gila Inventory System",
-      "items": ["backpacks"],
+      "slots": ["backpacks"],
       "brands": ["gila_guard"]
     },
     {
       "id": "banner_pack_replica",
       "label": "Banner Pack Replica",
       "types": ["replica"],
-      "items": ["backpacks"],
+      "slots": ["backpacks"],
       "brands": ["gila_guard"]
     },
     {
       "id": "big_horn_pack",
       "label": "Big Horn Pack",
-      "items": ["backpacks"],
+      "slots": ["backpacks"],
       "brands": ["gila_guard"]
     },
     {
       "id": "big_horn_pack_salvaged",
       "label": "Salvaged Big Horn Pack",
       "types": ["salvaged"],
-      "items": ["backpacks"],
+      "slots": ["backpacks"],
       "brands": ["gila_guard"]
     },
     {
       "id": "diamondback_gloves",
       "label": "Diamondback Gloves",
-      "items": ["gloves"],
+      "slots": ["gloves"],
       "brands": ["gila_guard"]
     },
     {
       "id": "diamondback_gloves_replica",
       "label": "Diamondback Gloves Replica",
       "types": ["replica"],
-      "items": ["gloves"],
+      "slots": ["gloves"],
       "brands": ["gila_guard"]
     },
     {
       "id": "jackrabbit_holster",
       "label": "Jackrabbit Holster",
-      "items": ["holsters"],
+      "slots": ["holsters"],
       "brands": ["gila_guard"]
     },
     {
       "id": "sidewinder_kneepads",
       "label": "Sidewinder Kneepads",
-      "items": ["kneepads"],
+      "slots": ["kneepads"],
       "brands": ["gila_guard"]
     },
     {
       "id": "svalinn_heavy_breather",
       "label": "Svalinn Heavy Breather",
-      "items": ["masks"],
+      "slots": ["masks"],
       "brands": ["richter_kaiser_gmbh"]
     },
     {
       "id": "svalinn_heavy_breather_replica",
       "label": "Svalinn Heavy Breather Replica",
       "types": ["replica"],
-      "items": ["masks"],
+      "slots": ["masks"],
       "brands": ["richter_kaiser_gmbh"]
     },
     {
       "id": "khetaka_thorax",
       "label": "Khetaka Thorax",
-      "items": ["vests"],
+      "slots": ["vests"],
       "brands": ["richter_kaiser_gmbh"]
     },
     {
       "id": "khetaka_thorax_replica",
       "label": "Khetaka Thorax Replica",
       "types": ["replica"],
-      "items": ["vests"],
+      "slots": ["vests"],
       "brands": ["richter_kaiser_gmbh"]
     },
     {
       "id": "ancile_rucksack",
       "label": "Ancile Rucksack",
-      "items": ["backpacks"],
+      "slots": ["backpacks"],
       "brands": ["richter_kaiser_gmbh"]
     },
     {
       "id": "aegis_knapsack",
       "label": "Aegis Knapsack",
-      "items": ["backpacks"],
+      "slots": ["backpacks"],
       "brands": ["richter_kaiser_gmbh"]
     },
     {
       "id": "aegis_knapsack_salvaged",
       "label": "Salvaged Aegis Knapsack",
       "types": ["salvaged"],
-      "items": ["backpacks"],
+      "slots": ["backpacks"],
       "brands": ["richter_kaiser_gmbh"]
     },
     {
       "id": "duban_fitted_hauler",
       "label": "Duban Fitted Hauler",
-      "items": ["backpacks"],
+      "slots": ["backpacks"],
       "brands": ["richter_kaiser_gmbh"]
     },
     {
       "id": "srivatsa_war_grips",
       "label": "Srivatsa War Grips",
-      "items": ["gloves"],
+      "slots": ["gloves"],
       "brands": ["richter_kaiser_gmbh"]
     },
     {
       "id": "pridwen_holster",
       "label": "Pridwen Holster",
-      "items": ["holsters"],
+      "slots": ["holsters"],
       "brands": ["richter_kaiser_gmbh"]
     },
     {
       "id": "pridwen_holster_replica",
       "label": "Pridwen Holster Replica",
       "types": ["replica"],
-      "items": ["holsters"],
+      "slots": ["holsters"],
       "brands": ["richter_kaiser_gmbh"]
     },
     {
       "id": "jaivardhan_thigh_rig",
       "label": "Jaivardhan Thigh Rig",
-      "items": ["holsters"],
+      "slots": ["holsters"],
       "brands": ["richter_kaiser_gmbh"]
     },
     {
       "id": "jaivardhan_thigh_rig_salvaged",
       "label": "Salvaged Jaivardhan Thigh Rig",
       "types": ["salvaged"],
-      "items": ["holsters"],
+      "slots": ["holsters"],
       "brands": ["richter_kaiser_gmbh"]
     },
     {
       "id": "forge",
       "label": "Forge",
       "types": ["named"],
-      "items": ["holsters"],
+      "slots": ["holsters"],
       "brands": ["richter_kaiser_gmbh"]
     },
     {
       "id": "hulian_joint_braces",
       "label": "Hulian Joint Braces",
-      "items": ["kneepads"],
+      "slots": ["kneepads"],
       "brands": ["richter_kaiser_gmbh"]
     },
     {
       "id": "guardrail_vi_face_rig",
       "label": "Guardrail VI Face Rig",
-      "items": ["masks"],
+      "slots": ["masks"],
       "brands": ["petrov_defense_group"]
     },
     {
       "id": "ops_armor",
       "label": "Ops Armor",
-      "items": ["vests"],
+      "slots": ["vests"],
       "brands": ["petrov_defense_group"]
     },
     {
       "id": "ops_armor_replica",
       "label": "Ops Armor Replica",
       "types": ["replica"],
-      "items": ["vests"],
+      "slots": ["vests"],
       "brands": ["petrov_defense_group"]
     },
     {
       "id": "crew_adapted_chest_rig",
       "label": "Crew-Adapted Chest Rig",
-      "items": ["vests"],
+      "slots": ["vests"],
       "brands": ["petrov_defense_group"]
     },
     {
       "id": "crew_adapted_chest_rig_salvaged",
       "label": "Salvaged Crew-Adapted Chest Rig",
       "types": ["salvaged"],
-      "items": ["vests"],
+      "slots": ["vests"],
       "brands": ["petrov_defense_group"]
     },
     {
       "id": "tacsack",
       "label": "TacSack",
-      "items": ["backpacks"],
+      "slots": ["backpacks"],
       "brands": ["petrov_defense_group"]
     },
     {
       "id": "tacsack_replica",
       "label": "TacSack Replica",
       "types": ["replica"],
-      "items": ["backpacks"],
+      "slots": ["backpacks"],
       "brands": ["petrov_defense_group"]
     },
     {
       "id": "support_weapons_bag",
       "label": "Support Weapons Bag",
-      "items": ["backpacks"],
+      "slots": ["backpacks"],
       "brands": ["petrov_defense_group"]
     },
     {
       "id": "support_weapons_bag_salvaged",
       "label": "Salvaged Support Weapons Bag",
       "types": ["salvaged"],
-      "items": ["backpacks"],
+      "slots": ["backpacks"],
       "brands": ["petrov_defense_group"]
     },
     {
       "id": "battle_gloves",
       "label": "Battle Gloves",
-      "items": ["gloves"],
+      "slots": ["gloves"],
       "brands": ["petrov_defense_group"]
     },
     {
       "id": "contractors_gloves",
       "label": "Contractor's Gloves",
-      "items": ["gloves"],
+      "slots": ["gloves"],
       "brands": ["petrov_defense_group"]
     },
     {
       "id": "drop_leg_holster",
       "label": "Drop Leg Holster",
-      "items": ["holsters"],
+      "slots": ["holsters"],
       "brands": ["petrov_defense_group"]
     },
     {
       "id": "drop_leg_holster_replica",
       "label": "Drop Leg Holster Replica",
       "types": ["replica"],
-      "items": ["holsters"],
+      "slots": ["holsters"],
       "brands": ["petrov_defense_group"]
     },
     {
       "id": "pivot_pads",
       "label": "Pivot Pads",
-      "items": ["kneepads"],
+      "slots": ["kneepads"],
       "brands": ["petrov_defense_group"]
     },
     {
       "id": "pivot_pads_replica",
       "label": "Pivot Pads Replica",
       "types": ["replica"],
-      "items": ["kneepads"],
+      "slots": ["kneepads"],
       "brands": ["petrov_defense_group"]
     },
     {
       "id": "cascades_mask",
       "label": "Cascades Mask",
-      "items": ["masks"],
+      "slots": ["masks"],
       "brands": ["yaahl_gear"]
     },
     {
       "id": "cascades_mask_replica",
       "label": "Cascades Mask Replica",
       "types": ["replica"],
-      "items": ["masks"],
+      "slots": ["masks"],
       "brands": ["yaahl_gear"]
     },
     {
       "id": "the_hollow_man",
       "label": "The Hollow Man",
       "types": ["named"],
-      "items": ["masks"],
+      "slots": ["masks"],
       "brands": ["yaahl_gear"]
     },
     {
       "id": "ranier_vest",
       "label": "Ranier Vest",
-      "items": ["vests"],
+      "slots": ["vests"],
       "brands": ["yaahl_gear"]
     },
     {
       "id": "ranier_vest_replica",
       "label": "Ranier Vest Replica",
       "types": ["replica"],
-      "items": ["vests"],
+      "slots": ["vests"],
       "brands": ["yaahl_gear"]
     },
     {
       "id": "glacier_bay_vest",
       "label": "Glacier Bay Vest",
-      "items": ["vests"],
+      "slots": ["vests"],
       "brands": ["yaahl_gear"]
     },
     {
       "id": "glacier_bay_vest_salvaged",
       "label": "Salvaged Glacier Bay Vest",
       "types": ["salvaged"],
-      "items": ["vests"],
+      "slots": ["vests"],
       "brands": ["yaahl_gear"]
     },
     {
       "id": "garibaldi_pack",
       "label": "Garibaldi Pack",
-      "items": ["backpacks"],
+      "slots": ["backpacks"],
       "brands": ["yaahl_gear"]
     },
     {
       "id": "shasta_gloves",
       "label": "Shasta Gloves",
-      "items": ["gloves"],
+      "slots": ["gloves"],
       "brands": ["yaahl_gear"]
     },
     {
       "id": "olympic_gloves",
       "label": "Olympic Gloves",
-      "items": ["gloves"],
+      "slots": ["gloves"],
       "brands": ["yaahl_gear"]
     },
     {
       "id": "olympic_gloves_salvaged",
       "label": "Salvaged Olympic Gloves",
       "types": ["salvaged"],
-      "items": ["gloves"],
+      "slots": ["gloves"],
       "brands": ["yaahl_gear"]
     },
     {
       "id": "snoqualmie_holster",
       "label": "Snoqualmie Holster",
-      "items": ["holsters"],
+      "slots": ["holsters"],
       "brands": ["yaahl_gear"]
     },
     {
       "id": "snoqualmie_holster_replica",
       "label": "Snoqualmie Holster Replica",
       "types": ["replica"],
-      "items": ["holsters"],
+      "slots": ["holsters"],
       "brands": ["yaahl_gear"]
     },
     {
       "id": "yukon_kneepads",
       "label": "Yukon Kneepads",
-      "items": ["kneepads"],
+      "slots": ["kneepads"],
       "brands": ["yaahl_gear"]
     },
     {
       "id": "mj_54",
       "label": "MJ 54",
-      "items": ["masks"],
+      "slots": ["masks"],
       "brands": ["china_light_industries_corporation"]
     },
     {
       "id": "mj_54_replica",
       "label": "MJ 54 Replica",
       "types": ["replica"],
-      "items": ["masks"],
+      "slots": ["masks"],
       "brands": ["china_light_industries_corporation"]
     },
     {
       "id": "ps_282",
       "label": "PS 282",
-      "items": ["vests"],
+      "slots": ["vests"],
       "brands": ["china_light_industries_corporation"]
     },
     {
       "id": "km_9",
       "label": "KM 9",
-      "items": ["backpacks"],
+      "slots": ["backpacks"],
       "brands": ["china_light_industries_corporation"]
     },
     {
       "id": "km_9_replica",
       "label": "KM 9 Replica",
       "types": ["replica"],
-      "items": ["backpacks"],
+      "slots": ["backpacks"],
       "brands": ["china_light_industries_corporation"]
     },
     {
       "id": "strategic_alignment",
       "label": "Strategic Alignment",
       "types": ["named"],
-      "items": ["backpacks"],
+      "slots": ["backpacks"],
       "brands": ["china_light_industries_corporation"]
     },
     {
       "id": "st_520",
       "label": "ST 520",
-      "items": ["gloves"],
+      "slots": ["gloves"],
       "brands": ["china_light_industries_corporation"]
     },
     {
       "id": "st_520_salvaged",
       "label": "Salvaged ST 520",
       "types": ["salvaged"],
-      "items": ["gloves"],
+      "slots": ["gloves"],
       "brands": ["china_light_industries_corporation"]
     },
     {
       "id": "fk_918",
       "label": "FK 918",
-      "items": ["holsters"],
+      "slots": ["holsters"],
       "brands": ["china_light_industries_corporation"]
     },
     {
       "id": "hx_02",
       "label": "HX 02",
-      "items": ["kneepads"],
+      "slots": ["kneepads"],
       "brands": ["china_light_industries_corporation"]
     },
     {
       "id": "hx_02_replica",
       "label": "HX 02 Replica",
       "types": ["replica"],
-      "items": ["kneepads"],
+      "slots": ["kneepads"],
       "brands": ["china_light_industries_corporation"]
     },
     {
       "id": "hx_02_salvaged",
       "label": "Salvaged HX 02",
       "types": ["salvaged"],
-      "items": ["kneepads"],
+      "slots": ["kneepads"],
       "brands": ["china_light_industries_corporation"]
     },
     {
       "id": "deadstick_protection_mask",
       "label": "Deadstick Protection Mask",
-      "items": ["masks"],
+      "slots": ["masks"],
       "brands": ["overlord_armaments"]
     },
     {
       "id": "deadstick_protection_mask_replica",
       "label": "Deadstick Protection Mask Replica",
       "types": ["replica"],
-      "items": ["masks"],
+      "slots": ["masks"],
       "brands": ["overlord_armaments"]
     },
     {
       "id": "pointblank_protection_vest",
       "label": "Pointblank Protection Vest",
-      "items": ["vests"],
+      "slots": ["vests"],
       "brands": ["overlord_armaments"]
     },
     {
       "id": "pointblank_protection_vest_replica",
       "label": "Pointblank Protection Vest Replica",
       "types": ["replica"],
-      "items": ["vests"],
+      "slots": ["vests"],
       "brands": ["overlord_armaments"]
     },
     {
       "id": "big_drum_body_armor",
       "label": "Big Drum Body Armor",
-      "items": ["vests"],
+      "slots": ["vests"],
       "brands": ["overlord_armaments"]
     },
     {
       "id": "big_drum_body_armor_salvaged",
       "label": "Salvaged Big Drum Body Armor",
       "types": ["salvaged"],
-      "items": ["vests"],
+      "slots": ["vests"],
       "brands": ["overlord_armaments"]
     },
     {
       "id": "fortitude_plate_carrier",
       "label": "Fortitude Plate Carrier",
-      "items": ["vests"],
+      "slots": ["vests"],
       "brands": ["overlord_armaments"]
     },
     {
       "id": "vert_carry_rail",
       "label": "Vert Carry Rail",
-      "items": ["backpacks"],
+      "slots": ["backpacks"],
       "brands": ["overlord_armaments"]
     },
     {
       "id": "neptune_protection_gloves",
       "label": "Neptune Protection Gloves",
-      "items": ["gloves"],
+      "slots": ["gloves"],
       "brands": ["overlord_armaments"]
     },
     {
       "id": "neptune_protection_gloves_replica",
       "label": "Neptune Protection Gloves Replica",
       "types": ["replica"],
-      "items": ["gloves"],
+      "slots": ["gloves"],
       "brands": ["overlord_armaments"]
     },
     {
       "id": "graffham_thigh_combo",
       "label": "Graffham Thigh Combo",
-      "items": ["holsters"],
+      "slots": ["holsters"],
       "brands": ["overlord_armaments"]
     },
     {
       "id": "dingson_protection_pads",
       "label": "Dingson Protection Pads",
-      "items": ["kneepads"],
+      "slots": ["kneepads"],
       "brands": ["overlord_armaments"]
     },
     {
       "id": "dingson_protection_pads_salvaged",
       "label": "Salvaged Dingson Protection Pads",
       "types": ["salvaged"],
-      "items": ["kneepads"],
+      "slots": ["kneepads"],
       "brands": ["overlord_armaments"]
     },
     {
       "id": "foxs_prayer",
       "label": "Fox's Prayer",
       "types": ["named"],
-      "items": ["kneepads"],
+      "slots": ["kneepads"],
       "brands": ["overlord_armaments"]
     }
   ]
