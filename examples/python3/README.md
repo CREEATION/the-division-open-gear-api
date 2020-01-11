@@ -5,7 +5,7 @@ The public facing api strives to create purely-pythonic classes from the SQL dat
 
 The data api will create a sqllite database with all the relevant tables, so that developers can, if they want, create their own implementations.
 
-requirements
+requirements:
 sqlalchemy
-sqllite3
+sqlite3
 pandas
