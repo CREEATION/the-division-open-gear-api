@@ -1,7 +1,7 @@
 from Slots import Slots
 import sqlite3
 import pandas as pd
-conn = sqlite3.connect(r"C:\pybridgeacc\td2_api\gear.db")
+conn = sqlite3.connect(r"gear.db")
 brands_df = pd.read_sql_query("select * from Brand", conn)
 
 
