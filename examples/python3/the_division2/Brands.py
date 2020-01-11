@@ -12,11 +12,11 @@ class Brand:
         self.slot_bonus_1 = slot_bonus_1
         self.slot_bonus_2 = slot_bonus_2
         self.slot_bonus_3 = slot_bonus_3
-        self.make_slots(df)
+        self.__make_slots(df)
 
 
 
-    def make_slots(self,df):
+    def __make_slots(self,df):
         if (df.mask == 1):
             self.mask = True
         else:
