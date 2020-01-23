@@ -1,3 +1,5 @@
+> currently on-hold until the `Gear 2.0` update drops
+
 # The Division Gear Data & Attributes
 Open API & data source for gear data and attributes in [**The Division 2**](https://tomclancy-thedivision.ubisoft.com/game/).
 

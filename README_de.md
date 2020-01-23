@@ -1,3 +1,5 @@
+> Aktuell auf Eis gelegt, bis das `Gear 2.0` Update ausrollt
+
 # The Division Ausrüstungsdaten & Attribute
 Offene Schnittstelle & Datenquelle für Ausrüstungsdaten und Attribute aus [**The Division 2**](https://tomclancy-thedivision.ubisoft.com/game/).
 
